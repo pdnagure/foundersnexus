@@ -1,0 +1,12 @@
+<svg width="1500" height="360" viewBox="0 0 1500 360" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="1500" height="360" fill="white"/>
+  <g transform="translate(36 58)">
+    <rect x="0" y="0" width="250" height="250" rx="58" fill="#13253A"/>
+    <path d="M56 196V52H188V90H96V128H175V166H96V196H56Z" fill="white"/>
+    <path d="M62 196L188 52" stroke="#11A77A" stroke-width="18" stroke-linecap="round"/>
+    <circle cx="190" cy="50" r="11" fill="#FF7A59"/>
+  </g>
+  <text x="332" y="172" fill="#13253A" font-family="Avenir Next, Montserrat, Arial, sans-serif" font-size="122" font-weight="800">FounderNexus</text>
+  <rect x="334" y="198" width="472" height="10" rx="5" fill="#11A77A"/>
+  <text x="334" y="256" fill="#51677D" font-family="Avenir Next, Montserrat, Arial, sans-serif" font-size="36" font-weight="600" letter-spacing="4">FOUNDERS' MEETUP ORGANIZATION</text>
+</svg>

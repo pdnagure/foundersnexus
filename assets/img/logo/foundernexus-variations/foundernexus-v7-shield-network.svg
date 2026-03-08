@@ -1,0 +1,12 @@
+<svg width="1280" height="420" viewBox="0 0 1280 420" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="1280" height="420" fill="white"/>
+  <g transform="translate(38 46)">
+    <path d="M150 10L270 56V154C270 234 214 302 150 320C86 302 30 234 30 154V56L150 10Z" fill="#13253A"/>
+    <circle cx="150" cy="122" r="17" fill="#FF7A59"/>
+    <circle cx="95" cy="182" r="14" fill="#11A77A"/>
+    <circle cx="205" cy="182" r="14" fill="#11A77A"/>
+    <path d="M150 122L95 182L150 240L205 182L150 122Z" stroke="white" stroke-width="12" fill="none"/>
+  </g>
+  <text x="360" y="188" fill="#13253A" font-family="Avenir Next, Montserrat, Arial, sans-serif" font-size="114" font-weight="800">FounderNexus</text>
+  <text x="364" y="252" fill="#4D647B" font-family="Avenir Next, Montserrat, Arial, sans-serif" font-size="34" font-weight="600" letter-spacing="3">TRUSTED NETWORK FOR FOUNDERS</text>
+</svg>

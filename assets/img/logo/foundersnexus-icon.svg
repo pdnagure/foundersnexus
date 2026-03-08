@@ -1,0 +1,21 @@
+<svg width="256" height="256" viewBox="0 0 256 256" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="iconA" x1="24" y1="24" x2="232" y2="232" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#FF6A3D"/>
+      <stop offset="1" stop-color="#FFB200"/>
+    </linearGradient>
+    <linearGradient id="iconB" x1="24" y1="46" x2="228" y2="220" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#1B2A4A"/>
+      <stop offset="1" stop-color="#263E73"/>
+    </linearGradient>
+  </defs>
+
+  <rect x="12" y="12" width="232" height="232" rx="56" fill="#F4F7FC"/>
+
+  <path d="M52 184V78C52 66.95 60.95 58 72 58C78.64 58 84.83 61.3 88.52 66.81L138 139.84V78C138 66.95 146.95 58 158 58C169.05 58 178 66.95 178 78V184C178 195.05 169.05 204 158 204C151.36 204 145.17 200.7 141.48 195.19L92 122.16V184C92 195.05 83.05 204 72 204C60.95 204 52 195.05 52 184Z" fill="url(#iconB)"/>
+
+  <path d="M88 178V72C88 60.95 96.95 52 108 52C114.64 52 120.83 55.3 124.52 60.81L174 133.84V72C174 60.95 182.95 52 194 52C205.05 52 214 60.95 214 72V178C214 189.05 205.05 198 194 198C187.36 198 181.17 194.7 177.48 189.19L128 116.16V178C128 189.05 119.05 198 108 198C96.95 198 88 189.05 88 178Z" fill="url(#iconA)" opacity="0.94"/>
+
+  <circle cx="206" cy="54" r="12" fill="#0F1730"/>
+  <circle cx="206" cy="54" r="6" fill="#FFB200"/>
+</svg>

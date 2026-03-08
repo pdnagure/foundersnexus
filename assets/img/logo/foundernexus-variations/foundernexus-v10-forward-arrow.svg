@@ -1,0 +1,11 @@
+<svg width="1320" height="420" viewBox="0 0 1320 420" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="1320" height="420" fill="white"/>
+  <g transform="translate(40 48)">
+    <rect x="0" y="0" width="300" height="300" rx="62" fill="#EEF5FA"/>
+    <path d="M72 86H190L246 150L190 214H72V86Z" fill="#0F3D66"/>
+    <path d="M104 118H176L210 150L176 182H104V118Z" fill="#11A77A"/>
+    <circle cx="238" cy="150" r="14" fill="#FF7A59"/>
+  </g>
+  <text x="382" y="190" fill="#13253A" font-family="Avenir Next, Montserrat, Arial, sans-serif" font-size="114" font-weight="800">FounderNexus</text>
+  <text x="388" y="252" fill="#4D647B" font-family="Avenir Next, Montserrat, Arial, sans-serif" font-size="34" font-weight="600" letter-spacing="3">MOVE FASTER TOGETHER</text>
+</svg>

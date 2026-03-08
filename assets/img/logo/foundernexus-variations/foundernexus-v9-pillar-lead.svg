@@ -1,0 +1,12 @@
+<svg width="1240" height="420" viewBox="0 0 1240 420" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="1240" height="420" fill="white"/>
+  <g transform="translate(42 42)">
+    <rect x="0" y="0" width="304" height="304" rx="68" fill="#13253A"/>
+    <rect x="70" y="62" width="32" height="180" rx="16" fill="#C8D6E2"/>
+    <rect x="136" y="98" width="32" height="144" rx="16" fill="#11A77A"/>
+    <rect x="202" y="132" width="32" height="110" rx="16" fill="#FF7A59"/>
+    <path d="M70 268H236" stroke="white" stroke-width="10" stroke-linecap="round"/>
+  </g>
+  <text x="386" y="186" fill="#13253A" font-family="Avenir Next, Montserrat, Arial, sans-serif" font-size="114" font-weight="800">FounderNexus</text>
+  <text x="390" y="252" fill="#4D647B" font-family="Avenir Next, Montserrat, Arial, sans-serif" font-size="34" font-weight="600" letter-spacing="3">BUILD. SCALE. LEAD.</text>
+</svg>

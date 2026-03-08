@@ -1,0 +1,37 @@
+<svg width="1200" height="320" viewBox="0 0 1200 320" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="coreA" x1="24" y1="24" x2="238" y2="238" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#FF6A3D"/>
+      <stop offset="1" stop-color="#FFB200"/>
+    </linearGradient>
+    <linearGradient id="coreB" x1="26" y1="44" x2="230" y2="222" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#1B2A4A"/>
+      <stop offset="1" stop-color="#263E73"/>
+    </linearGradient>
+    <linearGradient id="tag" x1="0" y1="0" x2="240" y2="0" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#FF6A3D"/>
+      <stop offset="1" stop-color="#FFB200"/>
+    </linearGradient>
+  </defs>
+
+  <rect width="1200" height="320" fill="transparent"/>
+
+  <g transform="translate(38 34)">
+    <rect x="18" y="18" width="208" height="208" rx="52" fill="#F5F7FB"/>
+
+    <path d="M56 180V74C56 64.06 64.06 56 74 56C79.97 56 85.54 58.96 88.87 63.9L138 136.6V74C138 64.06 146.06 56 156 56C165.94 56 174 64.06 174 74V180C174 189.94 165.94 198 156 198C150.03 198 144.46 195.04 141.13 190.1L92 117.4V180C92 189.94 83.94 198 74 198C64.06 198 56 189.94 56 180Z" fill="url(#coreB)"/>
+
+    <path d="M92 176V70C92 60.06 100.06 52 110 52C115.97 52 121.54 54.96 124.87 59.9L174 132.6V70C174 60.06 182.06 52 192 52C201.94 52 210 60.06 210 70V176C210 185.94 201.94 194 192 194C186.03 194 180.46 191.04 177.13 186.1L128 113.4V176C128 185.94 119.94 194 110 194C100.06 194 92 185.94 92 176Z" fill="url(#coreA)" opacity="0.92"/>
+
+    <circle cx="205" cy="55" r="13" fill="#0E1730"/>
+    <circle cx="205" cy="55" r="7" fill="#FFB200"/>
+  </g>
+
+  <g transform="translate(300 0)">
+    <text x="0" y="142" fill="#111A33" font-family="Avenir Next, Sora, Montserrat, Arial, sans-serif" font-size="92" font-weight="900" letter-spacing="1.2">FOUNDERS</text>
+    <text x="0" y="227" fill="#111A33" font-family="Avenir Next, Sora, Montserrat, Arial, sans-serif" font-size="92" font-weight="900" letter-spacing="1.2">NEXUS</text>
+
+    <rect x="2" y="248" width="238" height="8" rx="4" fill="url(#tag)"/>
+    <text x="2" y="286" fill="#4A5572" font-family="Avenir Next, Sora, Montserrat, Arial, sans-serif" font-size="27" font-weight="700" letter-spacing="3.4">DGDF PROGRAM</text>
+  </g>
+</svg>

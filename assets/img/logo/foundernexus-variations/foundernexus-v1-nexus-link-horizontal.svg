@@ -1,0 +1,16 @@
+<svg width="1400" height="420" viewBox="0 0 1400 420" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <g transform="translate(44 54)">
+    <circle cx="84" cy="72" r="30" fill="none" stroke="#F47A20" stroke-width="12"/>
+    <circle cx="160" cy="36" r="30" fill="none" stroke="#F47A20" stroke-width="12"/>
+    <circle cx="236" cy="72" r="30" fill="none" stroke="#F47A20" stroke-width="12"/>
+
+    <path d="M8 240V165C8 141.8 26.8 123 50 123H118C141.2 123 160 141.8 160 165V240" stroke="#0B2E53" stroke-width="20" stroke-linecap="round" stroke-linejoin="round"/>
+    <path d="M160 240V165C160 141.8 178.8 123 202 123H270C293.2 123 312 141.8 312 165V240" stroke="#0B2E53" stroke-width="20" stroke-linecap="round" stroke-linejoin="round"/>
+    <path d="M120 240V126C120 99.5 141.5 78 168 78H176C202.5 78 224 99.5 224 126V240" stroke="#1F9E63" stroke-width="20" stroke-linecap="round" stroke-linejoin="round"/>
+  </g>
+  <g transform="translate(390 0)">
+    <text x="0" y="190" fill="#0B2E53" font-family="Avenir Next, Montserrat, Arial, sans-serif" font-size="120" font-weight="800" letter-spacing="1">Founder</text>
+    <text x="565" y="190" fill="#1F9E63" font-family="Avenir Next, Montserrat, Arial, sans-serif" font-size="120" font-weight="800" letter-spacing="1">Nexus</text>
+    <text x="8" y="252" fill="#5A718A" font-family="Avenir Next, Montserrat, Arial, sans-serif" font-size="34" font-weight="600" letter-spacing="3">FOUNDERS MEETUP NETWORK</text>
+  </g>
+</svg>

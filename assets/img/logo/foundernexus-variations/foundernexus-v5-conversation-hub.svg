@@ -1,0 +1,12 @@
+<svg width="1280" height="420" viewBox="0 0 1280 420" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="1280" height="420" fill="white"/>
+  <g transform="translate(30 48)">
+    <path d="M40 38C40 17.01 57.01 0 78 0H258C278.99 0 296 17.01 296 38V210C296 230.99 278.99 248 258 248H150L82 306V248H78C57.01 248 40 230.99 40 210V38Z" fill="#0F3D66"/>
+    <circle cx="122" cy="124" r="20" fill="#FF7A59"/>
+    <circle cx="198" cy="124" r="20" fill="#11A77A"/>
+    <circle cx="160" cy="180" r="20" fill="#B7C8D9"/>
+    <path d="M122 124L198 124L160 180L122 124Z" stroke="white" stroke-width="10" stroke-linejoin="round"/>
+  </g>
+  <text x="380" y="194" fill="#13253A" font-family="Avenir Next, Montserrat, Arial, sans-serif" font-size="112" font-weight="800">FounderNexus</text>
+  <text x="386" y="255" fill="#4B6279" font-family="Avenir Next, Montserrat, Arial, sans-serif" font-size="34" font-weight="600" letter-spacing="3">MEETUPS FOR BUILDERS, INVESTORS, AND LEADERS</text>
+</svg>

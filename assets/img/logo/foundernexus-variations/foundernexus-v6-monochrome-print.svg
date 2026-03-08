@@ -1,0 +1,11 @@
+<svg width="1300" height="360" viewBox="0 0 1300 360" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="1300" height="360" fill="white"/>
+  <g transform="translate(40 48)">
+    <rect x="0" y="0" width="260" height="260" rx="62" fill="#111111"/>
+    <path d="M60 200V60H200" stroke="white" stroke-width="24" stroke-linecap="round"/>
+    <path d="M200 60V200H60" stroke="white" stroke-width="24" stroke-linecap="round"/>
+    <path d="M86 86L174 174" stroke="white" stroke-width="20" stroke-linecap="round"/>
+  </g>
+  <text x="350" y="175" fill="#111111" font-family="Avenir Next, Montserrat, Arial, sans-serif" font-size="118" font-weight="800">FounderNexus</text>
+  <text x="352" y="245" fill="#333333" font-family="Avenir Next, Montserrat, Arial, sans-serif" font-size="34" font-weight="600" letter-spacing="3">MONOCHROME BRAND MARK FOR PRINT</text>
+</svg>

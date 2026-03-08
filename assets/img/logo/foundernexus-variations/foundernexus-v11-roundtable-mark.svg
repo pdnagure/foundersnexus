@@ -1,0 +1,26 @@
+<svg width="1240" height="420" viewBox="0 0 1240 420" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="v11fn" x1="96" y1="96" x2="204" y2="204" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#0F3D66"/>
+      <stop offset="1" stop-color="#1E7B9D"/>
+    </linearGradient>
+  </defs>
+  <rect width="1240" height="420" fill="white"/>
+  <g transform="translate(48 50)">
+    <circle cx="150" cy="150" r="144" fill="#F3F8FC"/>
+    <circle cx="150" cy="150" r="76" fill="#13253A"/>
+    <path d="M112 174V126C112 120.477 116.477 116 122 116H148V128H124V174H112Z" fill="url(#v11fn)"/>
+    <path d="M188 126V174C188 179.523 183.523 184 178 184H152V172H176V126H188Z" fill="#11A77A"/>
+    <path d="M122 126L178 174" stroke="#FF7A59" stroke-width="10" stroke-linecap="round"/>
+    <circle cx="122" cy="126" r="5" fill="#0F3D66"/>
+    <circle cx="178" cy="174" r="5" fill="#11A77A"/>
+    <circle cx="150" cy="38" r="14" fill="#0F3D66"/>
+    <circle cx="245" cy="95" r="14" fill="#11A77A"/>
+    <circle cx="245" cy="205" r="14" fill="#0F3D66"/>
+    <circle cx="150" cy="262" r="14" fill="#11A77A"/>
+    <circle cx="55" cy="205" r="14" fill="#0F3D66"/>
+    <circle cx="55" cy="95" r="14" fill="#11A77A"/>
+  </g>
+  <text x="370" y="190" fill="#13253A" font-family="Avenir Next, Montserrat, Arial, sans-serif" font-size="114" font-weight="800">FounderNexus</text>
+  <text x="374" y="252" fill="#4D647B" font-family="Avenir Next, Montserrat, Arial, sans-serif" font-size="34" font-weight="600" letter-spacing="3">WHERE FOUNDERS CONNECT</text>
+</svg>
